@@ -332,7 +332,7 @@ This project is provided for educational and research use. Adapt or license appr
 
 ## Contact
 
-Project owner / maintainer: EuniceMabasa50
+Project owner 
 
 If you want, I can:
 - Generate requirements.txt based on the stack above.

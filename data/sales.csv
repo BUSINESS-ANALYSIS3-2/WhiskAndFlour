@@ -40,3 +40,4 @@ df = pd.DataFrame(rows, columns=["Date", "Product", "Qty_Sold", "Unit_Price", "T
 # Save to CSV
 df.to_csv("data/sales.csv", index=False)
 print("✅ Enhanced sales.csv generated successfully in /data")
+

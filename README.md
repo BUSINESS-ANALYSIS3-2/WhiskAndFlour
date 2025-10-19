@@ -329,14 +329,3 @@ This project is provided for educational and research use. Adapt or license appr
 - NLTK / spaCy — NLP preprocessing
 
 ---
-
-## Contact
-
-Project owner 
-
-If you want, I can:
-- Generate requirements.txt based on the stack above.
-- Draft example scripts (forecast.py, train_chatbot.py) with runnable code.
-- Create a Streamlit dashboard scaffold to visualize forecasts and chatbot analytics.
-
-Which one would you like me to generate next?
